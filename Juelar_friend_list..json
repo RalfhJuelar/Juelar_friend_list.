@@ -1,0 +1,34 @@
+{
+    "First Name": "Ralfh Lourenze ",
+    "Last Name": "Juelar",
+    "Age": 20,
+    "Address": "Brgy. San Isidro , Iloilo City",
+    "Contact": "raldhljuelar@gmail.com",
+    "friend_list": 
+    [
+        {
+            "Name": "Asilanom Rice Senday",
+            "Age": 22,
+            "Address": "Pavia, Iloilo",
+            "Likes": "Ligo Legends",
+            "Dislikes": "BBM",
+            "Feeling": "Tired"
+        },
+        {
+            "Name": "Dale Arcilla",
+            "Age": 21,
+            "Address": "Jaro, Iloilo",
+            "Likes": "Gaming, Sleep,Ice Coffee",
+            "Dislikes": "Boring days",
+            "Feeling": "Tired"
+        },
+        {
+        "Name": "Julie Mae Fuertes",
+        "Age": 21,
+        "Address": "Locsin Ville Subd. Brgy. Buntatala, Jaro, Iloilo City",
+        "Likes": "Food",
+        "Dislikes": "School",
+        "Feeling": "Tired"
+    }
+    ]
+}
